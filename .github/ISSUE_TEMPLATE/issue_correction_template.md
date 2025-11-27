@@ -1,6 +1,6 @@
 ---
 name: ❗ Correction 👣
-about: Suggest the correction of an issue or a misalignment
+about: Suggest the correction of an issue or a misalignment (e.g. spelling mistake or story misalignment)
 title: ''
 labels: 'correction'
 assignees: ''
